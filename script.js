@@ -2,7 +2,9 @@
 let x=0;
 let co=document.getElementById("co");
 
+
 function f1(){
 	co.innerText=x++;
+	alert(co.innerText);
 }
 
