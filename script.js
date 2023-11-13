@@ -1,6 +1,6 @@
 //your JS code here. If required.
 let x=1;
-let co=document.getElementById("incrementBtn");
+let co=document.getElementById("counter");
 
 
 function f1(){
